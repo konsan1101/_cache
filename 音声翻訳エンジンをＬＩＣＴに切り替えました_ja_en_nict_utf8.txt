@@ -1,0 +1,1 @@
+I switched the voice translation engine to the LICT

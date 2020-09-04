@@ -1,0 +1,1 @@
+Ahora se ha vuelto capaz de hacer una Reconocimiento del habla, una traducción de máquina y una voz de voz

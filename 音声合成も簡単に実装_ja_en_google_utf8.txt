@@ -1,0 +1,1 @@
+Speech synthesis is also easy to implement

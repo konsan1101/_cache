@@ -1,0 +1,1 @@
+These 72 kinds of patterns are also speeded up by parallel processing and branch cutting processing that recognizes only patterns that may increase the recognition rate

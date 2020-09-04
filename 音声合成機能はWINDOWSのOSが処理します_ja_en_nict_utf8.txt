@@ -1,0 +1,1 @@
+The voice synthesis functions are handled by OS in WINDOWS

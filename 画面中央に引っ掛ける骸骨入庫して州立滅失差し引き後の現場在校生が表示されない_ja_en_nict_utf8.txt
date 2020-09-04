@@ -1,0 +1,1 @@
+A skeleton in the center of the screen in the center of the screen will not be shown after the loss of the state

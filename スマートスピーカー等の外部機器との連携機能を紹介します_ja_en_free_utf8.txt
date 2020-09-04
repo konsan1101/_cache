@@ -1,0 +1,1 @@
+Introduces the linking function with external devices such as smart speakers

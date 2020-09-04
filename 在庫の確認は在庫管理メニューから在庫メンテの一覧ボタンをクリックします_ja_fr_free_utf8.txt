@@ -1,0 +1,1 @@
+Pour vérifier l'inventaire, cliquez sur le bouton Liste de maintenance de l'inventaire dans le menu Gestion de l'inventaire

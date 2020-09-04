@@ -1,0 +1,1 @@
+En otras palabras, un programa de escucha que detecta el sonido de voz es determinado

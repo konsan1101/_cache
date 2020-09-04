@@ -1,0 +1,1 @@
+In the process, the integration of voice translation and image processing was also realized

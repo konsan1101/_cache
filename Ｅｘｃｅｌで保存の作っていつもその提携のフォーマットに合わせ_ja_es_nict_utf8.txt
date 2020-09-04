@@ -1,0 +1,1 @@
+Lo que se guarda en Excel es siempre compatible con el formato de almacenaje

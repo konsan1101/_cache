@@ -1,0 +1,1 @@
+Reset the previous word every time you reset

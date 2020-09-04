@@ -1,0 +1,1 @@
+The JULIUS Local Speech Recognition feature is now enabled

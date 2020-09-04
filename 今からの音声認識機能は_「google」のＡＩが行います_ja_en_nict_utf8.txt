@@ -1,0 +1,1 @@
+The speech recognition function from now is "Google"

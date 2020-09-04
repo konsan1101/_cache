@@ -1,0 +1,1 @@
+Ce document est une spécification d’un système de gestion temporaire du stock de matériel

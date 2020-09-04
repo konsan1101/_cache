@@ -1,0 +1,1 @@
+The communication speed is zero and about 100 times execution speed can be achieved

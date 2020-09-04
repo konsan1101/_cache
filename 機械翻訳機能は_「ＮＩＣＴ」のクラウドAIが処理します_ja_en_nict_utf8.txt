@@ -1,0 +1,1 @@
+The machine translation function will be processed by "NICT" Cloud AI

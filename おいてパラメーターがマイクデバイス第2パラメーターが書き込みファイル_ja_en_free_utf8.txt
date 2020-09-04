@@ -1,0 +1,1 @@
+Parameter is microphone device second parameter is written file

@@ -1,0 +1,1 @@
+Desde el medidor se escribe el segundo parámetro del dispositivo del micrófono

@@ -1,0 +1,1 @@
+Speech recognition changes greatly depending on the communication situation

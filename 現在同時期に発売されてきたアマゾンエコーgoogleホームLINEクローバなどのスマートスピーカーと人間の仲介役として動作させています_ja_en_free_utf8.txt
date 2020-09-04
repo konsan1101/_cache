@@ -1,0 +1,1 @@
+Currently it works as a smart speaker and a human intermediary, such as Amazon Echo, google home, LINE Clover, etc. which have been released at the same time

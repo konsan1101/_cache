@@ -1,0 +1,1 @@
+The speech recognition function is processed on Google Cloud platforms

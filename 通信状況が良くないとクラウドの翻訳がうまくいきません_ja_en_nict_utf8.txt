@@ -1,0 +1,1 @@
+If the communication status is not good, the translation of the cloud won't work well

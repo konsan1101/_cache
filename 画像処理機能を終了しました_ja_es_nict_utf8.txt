@@ -1,0 +1,1 @@
+Completé la función de procesamiento de imágenes

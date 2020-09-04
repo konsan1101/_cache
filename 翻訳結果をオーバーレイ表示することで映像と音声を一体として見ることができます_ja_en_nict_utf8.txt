@@ -1,0 +1,1 @@
+By showing the translation result on the overlay, we can see the images and sounds together

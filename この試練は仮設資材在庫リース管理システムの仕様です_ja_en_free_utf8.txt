@@ -1,0 +1,1 @@
+This trial is the specification of the temporary material inventory lease management system

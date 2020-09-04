@@ -1,0 +1,1 @@
+It automatically complement AI with three layers of speech recognition, two layers by machine translation, and two layers by voice synthesis

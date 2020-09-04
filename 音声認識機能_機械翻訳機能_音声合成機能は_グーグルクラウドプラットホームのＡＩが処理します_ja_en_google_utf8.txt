@@ -1,0 +1,1 @@
+Speech recognition function, machine translation function, speech synthesis function are processed by AI of the Google cloud platform

@@ -1,0 +1,1 @@
+You can now process NICT, google, IBM, MICROSOFT, DOCOMO, and so on with multiple eEyes

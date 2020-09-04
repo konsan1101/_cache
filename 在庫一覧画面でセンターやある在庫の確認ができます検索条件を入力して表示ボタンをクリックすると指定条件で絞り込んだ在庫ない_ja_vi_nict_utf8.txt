@@ -1,0 +1,1 @@
+Anh có thể nhập được các điều kiện tồn kho trong kho, nhập các điều kiện tồn kho trong kho và nhấn vào nút tìm kiếm, nếu anh ấn vào nút tìm kiếm thì nó sẽ không còn trong kho

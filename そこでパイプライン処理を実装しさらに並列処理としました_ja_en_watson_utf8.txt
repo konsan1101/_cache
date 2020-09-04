@@ -1,0 +1,1 @@
+You have implemented pipeline processing and have processed parallel processing

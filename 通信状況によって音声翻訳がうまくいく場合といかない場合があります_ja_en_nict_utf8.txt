@@ -1,0 +1,1 @@
+Depending on the communication status, there is a case that the voice translation works well

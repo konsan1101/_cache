@@ -1,0 +1,1 @@
+If the result of cache is the machine translation and speech synthesis

@@ -1,0 +1,1 @@
+The "Image Recognition (ssd)" feature has been enabled

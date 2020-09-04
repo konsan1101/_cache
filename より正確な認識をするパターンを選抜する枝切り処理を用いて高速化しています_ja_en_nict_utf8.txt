@@ -1,0 +1,1 @@
+We use the pruning process to select the pattern that makes more accurate recognition

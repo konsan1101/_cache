@@ -1,0 +1,1 @@
+By tackling the problems so far, we were able to improve speech recognition rate and speed up as translator, so we worked on complementing AI to further improve inappropriate translation

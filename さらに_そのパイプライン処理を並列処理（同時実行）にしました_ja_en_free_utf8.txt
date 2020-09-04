@@ -1,0 +1,1 @@
+Furthermore, we have made the pipeline processing parallel processing (simultaneous execution)

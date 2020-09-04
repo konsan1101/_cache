@@ -1,0 +1,1 @@
+There are cases that the voice translation works well depending on the job status

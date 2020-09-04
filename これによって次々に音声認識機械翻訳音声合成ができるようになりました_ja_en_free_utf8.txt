@@ -1,0 +1,1 @@
+With this, it became possible to speech recognition, machine translation, speech synthesis one after another

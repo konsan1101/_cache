@@ -1,0 +1,1 @@
+Le moteur de Reconnaissance automatique de la parole semble être installé

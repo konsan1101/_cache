@@ -1,0 +1,1 @@
+Speech recognition from now, automatic translation, speech synthesis function handles Meanwhile AI "azure"

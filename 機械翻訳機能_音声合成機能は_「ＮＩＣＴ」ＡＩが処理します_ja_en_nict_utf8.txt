@@ -1,0 +1,1 @@
+The machine translation function and voice synthesis function are processed by "NICT" AI

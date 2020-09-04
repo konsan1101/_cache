@@ -1,0 +1,1 @@
+The machine translation function of Microsoft will be handled by Microsoft Cloud AIA

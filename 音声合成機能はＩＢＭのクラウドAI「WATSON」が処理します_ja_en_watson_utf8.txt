@@ -1,0 +1,1 @@
+The speech synthesized feature is handled by IBM's cloud AI, WATSON

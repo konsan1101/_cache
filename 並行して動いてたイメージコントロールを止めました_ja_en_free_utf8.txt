@@ -1,0 +1,1 @@
+I stopped the image control that was moving in parallel

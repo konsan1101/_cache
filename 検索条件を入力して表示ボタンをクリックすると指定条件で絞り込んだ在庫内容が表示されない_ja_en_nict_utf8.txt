@@ -1,0 +1,1 @@
+If you input the search criteria and click the display button, you can't find the inventory that you narrowed down under specified conditions

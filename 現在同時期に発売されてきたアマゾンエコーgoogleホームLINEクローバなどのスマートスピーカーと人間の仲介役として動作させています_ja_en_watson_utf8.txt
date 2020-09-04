@@ -1,0 +1,1 @@
+Currently, it is operating as a mediator between smart speakers and humans, such as Amazon Echo, Google Home, and LINE Krova, which have been released during the same period

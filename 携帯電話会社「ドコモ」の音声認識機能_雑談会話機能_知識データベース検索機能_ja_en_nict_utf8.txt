@@ -1,0 +1,1 @@
+Speech recognition function of DoCoMo, chat conversation function, knowledge database search function

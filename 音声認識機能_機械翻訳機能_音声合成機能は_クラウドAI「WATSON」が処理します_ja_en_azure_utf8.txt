@@ -1,0 +1,1 @@
+Speech recognition, automatic translation, speech synthesis function handles cloud AI "WATSON"

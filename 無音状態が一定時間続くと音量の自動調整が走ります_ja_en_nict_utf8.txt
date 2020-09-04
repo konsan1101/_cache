@@ -1,0 +1,1 @@
+If the silent state continues for a certain time, the volume adjustment will run

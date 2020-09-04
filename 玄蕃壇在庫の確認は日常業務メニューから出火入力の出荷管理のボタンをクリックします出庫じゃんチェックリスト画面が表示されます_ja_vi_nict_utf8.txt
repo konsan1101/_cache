@@ -1,0 +1,1 @@
+Việc xác nhận tồn kho trong kho sẽ hiện ra màn hình quản lý xuất nhập cảnh nhập hàng từ danh mục kiểm tra nhập hàng ngày hàng ngày

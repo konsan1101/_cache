@@ -1,0 +1,1 @@
+Speech recognition, machine translation, voice synthesis functions are "NICT" Cloud A. I. I will process it

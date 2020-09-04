@@ -1,0 +1,1 @@
+If the voice channel doesn't open properly, it won't translate

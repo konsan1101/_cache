@@ -1,0 +1,1 @@
+The improvements were largely divided into two pieces: speech translation and hands-free operations

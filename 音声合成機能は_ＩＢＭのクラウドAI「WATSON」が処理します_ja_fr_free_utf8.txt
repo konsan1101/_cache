@@ -1,0 +1,1 @@
+La fonction de synthèse vocale est gérée par l'IA cloud "WATSON" d'IBM

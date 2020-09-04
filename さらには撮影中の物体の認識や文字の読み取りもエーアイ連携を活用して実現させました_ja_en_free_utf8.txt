@@ -1,0 +1,1 @@
+Furthermore, we also realized object recognition and character reading during shooting by utilizing AEI cooperation

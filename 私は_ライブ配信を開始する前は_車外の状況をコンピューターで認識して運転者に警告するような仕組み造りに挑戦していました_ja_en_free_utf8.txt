@@ -1,0 +1,1 @@
+Before I started live broadcasting, I was challenged to create a structure that recognizes the situation outside the car with a computer and warns the driver

@@ -1,0 +1,1 @@
+If it is cached results, machine translation and speech synthesis can achieve an execution speed of about 100 times with zero communication volume

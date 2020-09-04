@@ -1,0 +1,1 @@
+When entering the search condition and clicking the display button, it does not display as if it narrows down by the condition

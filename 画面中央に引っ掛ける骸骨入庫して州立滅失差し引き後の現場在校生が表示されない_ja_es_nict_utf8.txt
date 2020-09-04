@@ -1,0 +1,1 @@
+No se mostrarán en el lugar en el que se introduce el cordón umbilical en el centro de la pantalla, y luego se queda en la zona de

@@ -1,0 +1,1 @@
+The mechanism before improvement and the structure after improvement are distinguished by the type of microphone and by making it completely parallel processing, it is possible to input voice even during speech synthesis utterance

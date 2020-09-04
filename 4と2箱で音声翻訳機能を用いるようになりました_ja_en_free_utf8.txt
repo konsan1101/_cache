@@ -1,0 +1,1 @@
+4 and 2 boxes now use speech translation function

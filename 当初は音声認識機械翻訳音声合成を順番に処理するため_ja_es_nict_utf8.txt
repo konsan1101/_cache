@@ -1,0 +1,1 @@
+Al principio, se procesó la Reconocimiento del habla, la traducción mecánica y la síntesis de voz por orden

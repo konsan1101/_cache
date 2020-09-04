@@ -1,0 +1,1 @@
+From the background, I thought that I could integrate the image processing to the translator

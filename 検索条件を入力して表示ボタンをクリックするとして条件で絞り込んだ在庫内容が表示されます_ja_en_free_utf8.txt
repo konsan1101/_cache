@@ -1,0 +1,1 @@
+Enter the search conditions and click the Display button to display the inventory contents filtered by the conditions

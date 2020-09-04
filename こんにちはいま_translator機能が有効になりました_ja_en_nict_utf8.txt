@@ -1,0 +1,1 @@
+Hello, the translator function is now valid

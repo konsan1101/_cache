@@ -1,0 +1,1 @@
+A menos de una palabra, no se puede reconocer como una palabra

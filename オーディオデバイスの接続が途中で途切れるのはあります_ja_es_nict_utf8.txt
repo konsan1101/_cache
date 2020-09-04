@@ -1,0 +1,1 @@
+Hay veces en que se corta la conexión en el Device de audio

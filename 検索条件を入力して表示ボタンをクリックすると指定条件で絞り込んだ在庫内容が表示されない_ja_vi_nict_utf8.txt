@@ -1,0 +1,1 @@
+Nếu nhập điều kiện tìm kiếm vào, kích chuột vào nút hiển thị thì nội dung sẽ không được hiển thị trong điều kiện chỉ định

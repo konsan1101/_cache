@@ -1,0 +1,1 @@
+Le stock locatif du centre peut être confirmé sur l’écran de liste de tambours. Entrez les conditions de recherche, puis cliquez sur le bouton Afficher

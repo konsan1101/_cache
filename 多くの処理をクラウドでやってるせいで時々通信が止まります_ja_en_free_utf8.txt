@@ -1,0 +1,1 @@
+Communication stops occasionally due to doing a lot of processing in the cloud

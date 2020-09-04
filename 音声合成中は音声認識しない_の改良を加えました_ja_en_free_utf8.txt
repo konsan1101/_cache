@@ -1,0 +1,1 @@
+No speech recognition during speech synthesis. Improvements have been made

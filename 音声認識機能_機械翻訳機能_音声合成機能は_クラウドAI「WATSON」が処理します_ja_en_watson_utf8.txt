@@ -1,0 +1,1 @@
+Voice recognition, machine translation and speech synthesis will be handled by the cloud AI "WATSON"

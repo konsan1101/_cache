@@ -1,0 +1,1 @@
+In addition, in order to save traffic in mobile environment, machine translation result and speech synthesis result are cached

@@ -1,0 +1,1 @@
+You can also display the result of facial recognition and show not only the voice but also facial expressions

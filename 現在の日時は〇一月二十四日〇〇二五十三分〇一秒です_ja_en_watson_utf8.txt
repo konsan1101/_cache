@@ -1,0 +1,1 @@
+The current date and time are 1,024,255, 001 per second

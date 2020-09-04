@@ -1,0 +1,1 @@
+Ultimately, in an environment where speech recognition and speech synthesis do not intersect, pipeline / parallel processing is executed,

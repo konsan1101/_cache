@@ -1,0 +1,1 @@
+For example, the sequence of speech recognition, machine translation, speech synthesis is a bucket brigade,

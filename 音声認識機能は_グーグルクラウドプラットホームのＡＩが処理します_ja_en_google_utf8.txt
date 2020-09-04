@@ -1,0 +1,1 @@
+The voice recognition function is handled by the AI ​​of the Google cloud platform

@@ -1,0 +1,1 @@
+Therefore, pipeline processing was implemented and parallel processing was done

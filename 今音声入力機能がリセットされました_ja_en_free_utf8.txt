@@ -1,0 +1,1 @@
+Audio input function reset now

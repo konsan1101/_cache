@@ -1,0 +1,1 @@
+It supports even if communication speed is slow

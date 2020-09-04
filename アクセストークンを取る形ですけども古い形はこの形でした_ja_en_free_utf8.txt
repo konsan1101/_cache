@@ -1,0 +1,1 @@
+It takes the form of an access token, but the old form was this form

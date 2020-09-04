@@ -1,0 +1,1 @@
+Although this challenge was not realized by the small board computer at the time, it was possible to recognize three points of image processing and car, face, and person

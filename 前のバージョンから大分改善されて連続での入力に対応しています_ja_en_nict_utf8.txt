@@ -1,0 +1,1 @@
+It has been improved from the previous version and supports consecutive input

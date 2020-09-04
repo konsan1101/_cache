@@ -1,0 +1,1 @@
+Pour vérifier le stock en magasin, cliquez sur le bouton Liste de maintenance des stocks dans le menu Gestion des stocks

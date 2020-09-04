@@ -1,0 +1,1 @@
+It communicates information with this machine by voice communication

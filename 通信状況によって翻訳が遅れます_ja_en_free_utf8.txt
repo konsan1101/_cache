@@ -1,0 +1,1 @@
+Translation is delayed depending on the communication situation

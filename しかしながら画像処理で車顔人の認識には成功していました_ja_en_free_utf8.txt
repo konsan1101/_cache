@@ -1,0 +1,1 @@
+However, it was successful in recognizing cars, faces and people by image processing

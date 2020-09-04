@@ -1,0 +1,1 @@
+There will be a strange message if there is no pipe processing

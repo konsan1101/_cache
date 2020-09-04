@@ -1,0 +1,1 @@
+in machine translation and speech synthesis, in the case of caching

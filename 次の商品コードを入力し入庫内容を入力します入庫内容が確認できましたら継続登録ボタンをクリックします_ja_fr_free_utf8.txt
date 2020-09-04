@@ -1,0 +1,1 @@
+Saisissez le code produit suivant et entrez le contenu de l'entrée de marchandises.Lorsque le contenu de l'entrée de marchandises peut être confirmé, cliquez sur le bouton Continuer l'enregistrement

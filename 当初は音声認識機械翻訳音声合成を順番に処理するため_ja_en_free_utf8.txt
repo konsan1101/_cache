@@ -1,0 +1,1 @@
+Initially, in order to process voice recognition, machine translation, voice synthesis in order,

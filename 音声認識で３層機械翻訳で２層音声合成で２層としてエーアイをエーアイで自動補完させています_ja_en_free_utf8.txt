@@ -1,0 +1,1 @@
+We are automatically completing AI with AI as three layers by speech recognition, two layers by machine translation, and two layers by speech synthesis

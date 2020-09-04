@@ -1,0 +1,1 @@
+Second improvement. Integration of translation and image processing

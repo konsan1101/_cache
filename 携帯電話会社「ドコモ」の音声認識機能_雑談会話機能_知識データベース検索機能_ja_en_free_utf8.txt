@@ -1,0 +1,1 @@
+Speech recognition function, chat conversation function, knowledge database search function of mobile phone company "docomo"

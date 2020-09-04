@@ -1,0 +1,1 @@
+La fonction de traduction automatique est gérée par l'IA cloud "azur" de Microsoft

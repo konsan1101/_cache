@@ -1,0 +1,1 @@
+When you enter the goods receipt input, it automatically returns to the receipt entry screen from. That is the revolution of goods receipt input

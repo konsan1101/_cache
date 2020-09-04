@@ -1,0 +1,1 @@
+Hello. I am a hands free control translation system. I was designed to work with the Kondo family's car MPV. From now on, I will introduce my own functions as a self-diagnosis. Thank you

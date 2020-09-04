@@ -1,0 +1,1 @@
+At first, speech recognition, machine translation, and voice synthesis are processed in order

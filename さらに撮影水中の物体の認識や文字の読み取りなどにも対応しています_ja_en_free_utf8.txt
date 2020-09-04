@@ -1,0 +1,1 @@
+It also supports recognition of objects in water and reading of letters

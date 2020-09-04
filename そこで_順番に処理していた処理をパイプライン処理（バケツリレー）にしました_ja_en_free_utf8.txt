@@ -1,0 +1,1 @@
+Therefore, we made pipelining (bucket brigade) processing that we were processing in order

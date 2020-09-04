@@ -1,0 +1,1 @@
+This allows for voice recognition, machine translation and speech synthesis to be made one after another

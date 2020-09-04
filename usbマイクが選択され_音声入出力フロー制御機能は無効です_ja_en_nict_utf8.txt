@@ -1,0 +1,1 @@
+The USB microphone is chosen and the voice input / output flow control function is invalid

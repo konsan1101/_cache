@@ -1,0 +1,1 @@
+However, this improvement will reduce false recognition, but it will not be smooth and simultaneous translation

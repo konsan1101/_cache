@@ -1,0 +1,1 @@
+The speech recognition function, machine translation function and voice synthesis function will be processed by NICT Cloud of ""

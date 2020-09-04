@@ -1,0 +1,1 @@
+There are times when the connection of the audio device is interrupted

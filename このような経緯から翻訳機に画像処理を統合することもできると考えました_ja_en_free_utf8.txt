@@ -1,0 +1,1 @@
+Based on this background, we thought that we could integrate image processing into a translation machine

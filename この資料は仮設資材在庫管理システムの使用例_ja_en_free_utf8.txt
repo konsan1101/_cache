@@ -1,0 +1,1 @@
+This document is an example of using a temporary stock management system

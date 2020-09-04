@@ -1,0 +1,1 @@
+Changes in sound quality due to the opening / closing state of the window

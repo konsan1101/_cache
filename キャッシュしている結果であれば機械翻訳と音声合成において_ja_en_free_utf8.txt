@@ -1,0 +1,1 @@
+If it is a cached result, in machine translation and speech synthesis

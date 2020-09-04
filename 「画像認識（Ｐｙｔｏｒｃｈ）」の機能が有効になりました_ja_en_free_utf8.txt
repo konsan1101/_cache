@@ -1,0 +1,1 @@
+"Image recognition (Pytorch)" function has been enabled

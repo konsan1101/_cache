@@ -1,0 +1,1 @@
+In order to deal with that, once we accumulate sales, we will be able to lock all data based on the data provided to the target
